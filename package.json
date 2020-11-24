@@ -1,0 +1,15 @@
+{
+  "name": "06-applicacion-clima",
+  "version": "1.0.0",
+  "description": "aplicacion clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ezequiel panigazzi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "yargs": "^16.1.1"
+  }
+}
